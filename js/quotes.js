@@ -13,7 +13,7 @@ year: '1925'
 },
 {
 quote:"I'm just saying, take courage. That and pretty much that alone is never the incorrect thing to do.",
-source: "John Jermiah Sullivan",
+source: "John Jeremiah Sullivan",
 citation: "Pulphead",
 year: "2011"
 },

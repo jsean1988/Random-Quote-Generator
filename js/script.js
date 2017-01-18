@@ -10,7 +10,7 @@ function getRandomQuote() {
   var randomQuote = Math.floor(Math.random() * (quotes.length));
   return quotes[randomQuote];
 }
-//prints quotes returned from getRandomQuote function 
+//prints quotes returned from getRandomQuote function
 function printQuote() {
   var newQuote = getRandomQuote();
   var quoteDetails = '<p class="quote">' + newQuote.quote + '</p>';
@@ -27,7 +27,7 @@ function intervals(){     //refreshes quote and background color every 15 second
 intervals();
 
 
-//generaetes and returns color value
+//generates and returns color value
 function getRandomColor() {
     var letters = '0123456789ABCDEF';
     var color = '#';
